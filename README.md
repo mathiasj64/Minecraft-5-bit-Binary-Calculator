@@ -1,8 +1,8 @@
-#Minecraft 5-bit Binary Calculator
+# Minecraft 5-bit Binary Calculator
 
 ![Screenshot](/Screenshot.png)
 
-###How to open the calculator in minecraft on windows:
+### How to open the calculator in minecraft on windows:
 
 1 .Clone or download this project from github.
 
